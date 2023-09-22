@@ -8,7 +8,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 ### Capturas de pantalla:
 
-La página web se desarrolló utilizando como base los siguiente puntos:
+La página web se desarrolló utilizando como base los siguientes puntos:
 
 ![Primera parte de la página web](imagenes/screenshot1.png)
 
