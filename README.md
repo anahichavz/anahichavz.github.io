@@ -10,7 +10,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 ### Capturas de pantalla:
 
-La página web se desarrolló utilizando como base los siguientes puntos:
+La página web se desarrolló utilizando como base los siguientes puntos, los cuales fueron editados de acuerdo al individuo en cuestión. 
 
 ![Primera parte de la página web](imagenes/screenshot1.png)
 
@@ -33,12 +33,6 @@ Contacto:
 ## Tecnologías
 
 Esta página web fue creada con:
-
-* HTML
-* CSS
-* JavaScript 
-* Bootstrap 5
-* 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
